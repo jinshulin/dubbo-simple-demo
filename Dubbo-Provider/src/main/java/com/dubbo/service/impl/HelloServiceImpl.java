@@ -2,7 +2,6 @@ package com.dubbo.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
 import com.dubbo.service.HelloService;
-import org.springframework.util.Assert;
 
 /**
  * Dubbo对外暴露接口实现类.
