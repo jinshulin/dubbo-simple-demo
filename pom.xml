@@ -75,6 +75,10 @@
 						<artifactId>httpcore</artifactId>
 						<groupId>org.apache.httpcomponents</groupId>
 					</exclusion>
+                    <exclusion>
+                        <groupId>org.springframework</groupId>
+                        <artifactId>spring</artifactId>
+                    </exclusion>
 				</exclusions>
 			</dependency>
 		</dependencies>
